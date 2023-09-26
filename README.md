@@ -1,7 +1,7 @@
 # YOLOv5_Object_Detection 
 :rocket::star:
 
-Object detection and classification using PyTorch's YOLOv5, by the help of Fernetron's tutorial: 
+Object detection and classification using PyTorch's YOLOv5, by the help of Ferneutron's tutorial: 
 
 https://www.youtube.com/watch?v=qrP43kC_NOY
 
